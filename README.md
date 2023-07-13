@@ -11,4 +11,5 @@ Finetune Whisper model on Vietnamese Dataset . I use Vivos public dataset only a
 
 ##
 All the description and works availabe at : 
+[openai/whisper-base](https://huggingface.co/openai/whisper-base)
 [DuyTa/vi_whisper]([https://huggingface.co/DuyTa/vi_whisper])
